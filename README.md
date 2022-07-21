@@ -26,7 +26,7 @@ Choose room type:
 3.Luxury Single Room
 4.Deluxe Single Room
 
-2. Display room availability
+2.Display room availability
 
 Choose room type:
 1.Luxury Duble Room
