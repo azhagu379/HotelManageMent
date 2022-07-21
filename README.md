@@ -18,7 +18,7 @@ Enter your choice:
 5.Checkout
 6.Exit
 
-1.Display room:
+1. Display room:
 
 Choose room type:
 1.Luxury Duble Room
@@ -26,7 +26,7 @@ Choose room type:
 3.Luxury Single Room
 4.Deluxe Single Room
 
-2.Display room availability
+2. Display room availability
 
 Choose room type:
 1.Luxury Duble Room
@@ -34,7 +34,7 @@ Choose room type:
 3.Luxury Single Room
 4.Deluxe Single Room
 
-3.Book
+3. Book
 
 Choose room type:
 1.Luxury Duble Room
