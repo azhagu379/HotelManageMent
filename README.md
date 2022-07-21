@@ -7,11 +7,70 @@ The program reads the file when it restrats to know the previous status of the h
 user defined exception is thrown if user tries to book and already allotted room.
 Exception handling is properly done to deal with andy kind of unexpected exception.
 
-Documetation:
 
-input Collection:
+input and output
 
-out put Manupulation:
+Enter your choice:
+1.Display room details
+2.Display room availability
+3.Book
+4.Oreder food
+5.Checkout
+6.Exit
+
+1.Display room:
+
+Choose room type:
+1.Luxury Duble Room
+2.Deluxe Duble Room
+3.Luxury Single Room
+4.Deluxe Single Room
+
+2. Display room availability
+
+Choose room type:
+1.Luxury Duble Room
+2.Deluxe Duble Room
+3.Luxury Single Room
+4.Deluxe Single Room
+
+3.Book
+
+Choose room type:
+1.Luxury Duble Room
+2.Deluxe Duble Room
+3.Luxury Single Room
+4.Deluxe Single Room
+
+4.Oreder food
+Room Number- example=9
+==========
+   Menu:
+==========
+
+1.Sandwich      Rs.50
+2.Pasta         Rs.60
+3.Noodles       Rs.70
+4.Coke          Rs.30
+Enter your Choice(1/2/3): example(1)
+
+Quantity- example:2
+
+Do you want to order anythin else(Y/N):
+
+5.Checkout:
+Food Charges:-
+===============
+Item   Quantity    Price
+-------------------------
+Sandwich  2         100.0
+Pasta     2         120.0
+
+Total Amount- 4220.0
+Deallocated succesfully
+
+
+
 
 How works:
 
